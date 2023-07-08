@@ -7,7 +7,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='[%a(asctime)s]: %(message)s:')
 
-project_name = "text-summarizer"
+project_name = "text_summarizer"
 
 list_of_files = [
     ".github/workflow/.gitkeep",
